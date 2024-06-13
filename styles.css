@@ -23,7 +23,8 @@ h3 {
 
 .demo {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
-    width: 480px;
+    width: 100%;
+    max-width: 480px;
     display:block;
     margin-bottom: 24px;
     margin-left: auto;
